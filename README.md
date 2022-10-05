@@ -1,9 +1,9 @@
 ### Hi there, Welcome to my Profile 👋
 
-
+<!-- 
 **Talha7447/Talha7447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Portfolio Project
 - 🌱 I’m currently learning CSS and Javascript
