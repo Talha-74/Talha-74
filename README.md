@@ -6,10 +6,9 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Portfolio Project
-- 🌱 I’m currently learning CSS and Javascript
-- 👯 I’m looking to collaborate on Opensource Projects
+- 🌱 I’m currently learning Laravel, mysql and OOPs.
 - 🤔 I’m looking for help with Web3.0 and Block Chain
-- 💬 Ask me about Content Writing, HTML & CSS
+- 💬 Ask me about Back-end technologies.
 - 📫 How to reach me: [Twitter](https://twitter.com/TalhaCode), [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
 - ⚡ Fun fact: I love to help other.
 
