@@ -7,6 +7,19 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/TalhaCode), [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
 - ⚡ Fun fact: I love to help others.
 
+  ### Connect with Me
+<p align="center">
+  <a href="https://twitter.com/TalhaCode">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/talha-shinwari-52ab84194/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+  </a>
+  <a href="wa.me/+923034515043">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
+  </a>
+</p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha7447&show_icons=true)
 
 ### My Projects
@@ -24,15 +37,3 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Connect with Me
-<p align="center">
-  <a href="https://twitter.com/TalhaCode">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/talha-shinwari-52ab84194/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
-  </a>
-  <a href="wa.me/+923034515043">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
-  </a>
-</p>
