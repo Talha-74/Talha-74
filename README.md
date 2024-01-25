@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Laravel, MySQL, and OOP.
 - 🤔 I’m looking for help with Web3.0 and Blockchain.
 - 💬 Ask me about Back-end technologies.
-- 📫 How to reach me: <a href="https://twitter.com/TalhaCode">
-    <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Talha's Twitter"/>
-  </a>, [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
+- 📫 How to reach me: [Twitter](https://twitter.com/TalhaCode), [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
 - ⚡ Fun fact: I love to help others.
 
   ### Connect with Me
