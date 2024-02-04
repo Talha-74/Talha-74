@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/TalhaCode), [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
 - ⚡ Fun fact: I love to help others.
 
-  ### Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://twitter.com/TalhaCode">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
@@ -20,26 +20,21 @@
   </a>
 </p>
 
-### Connect with Me
-<p align="center">
-  <a href="https://twitter.com/TalhaCode">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/talha-shinwari-52ab84194/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
-  </a>
-  <a href="https://wa.me/+923034515043">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
-  </a>
-</p>
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Talha7447)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha7447&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Coding Activity](https://github-readme-stats.vercel.app/api?username=Talha7447&show_icons=true)
+### GitHub Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Talha7447&theme=dark)](https://git.io/streak-stats)
+
+### Coding Playlist
+🎧 Now Playing: [Your Favorite Coding Track](spotify:track:yourtrackid)
 
 ### Recently Worked On
 - [Project A](https://github.com/Talha7447/Project-A) - Brief description.
 - [Project B](https://github.com/Talha7447/Project-B) - Brief description.
-
 
 ### Tech Stack
 <p align="center">
