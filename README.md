@@ -21,7 +21,7 @@
 </p>
 
 ### GitHub Trophies
-[![Talha's trophies](https://github-profile-trophy.vercel.app/?username=Talha-74)](https://github.com/ryo-ma/github-profile-trophy)
+[![Talha's trophies](https://github-profile-trophy.vercel.app/?username=Talha-74&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
