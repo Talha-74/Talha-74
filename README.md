@@ -21,13 +21,12 @@
 </p>
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Talha7447)](https://github.com/ryo-ma/github-profile-trophy)
+[![Talha's trophies](https://github-profile-trophy.vercel.app/?username=Talha-74)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha7447&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### GitHub Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Talha7447&theme=dark)](https://git.io/streak-stats)
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical)
 
 ### Coding Playlist
 🎧 Now Playing: [Your Favorite Coding Track](spotify:track:yourtrackid)
