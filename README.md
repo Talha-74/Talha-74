@@ -23,17 +23,27 @@
 ### GitHub Trophies
 [![Talha's trophies](https://github-profile-trophy.vercel.app/?username=Talha-74&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie" alt="Top Languages" />
+  <!-- Add some space between the images -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
 
 ### Coding Playlist
 🎧 Now Playing: [Your Favorite Coding Track](spotify:track:yourtrackid)
 
+---
+
 ### Recently Worked On
 - [Project A](https://github.com/Talha7447/Project-A) - Brief description.
 - [Project B](https://github.com/Talha7447/Project-B) - Brief description.
+
+---
 
 ### Tech Stack
 <p align="center">
