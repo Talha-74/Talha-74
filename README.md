@@ -20,12 +20,26 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha7447&show_icons=true)
+### Connect with Me
+<p align="center">
+  <a href="https://twitter.com/TalhaCode">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/talha-shinwari-52ab84194/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+  </a>
+  <a href="https://wa.me/+923034515043">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
+  </a>
+</p>
 
-### My Projects
-- [Project 1](https://github.com/Talha7447/Project-1) - Description of project 1.
-- [Project 2](https://github.com/Talha7447/Project-2) - Description of project 2.
-- [More Projects](https://github.com/Talha7447?tab=repositories)
+
+![Coding Activity](https://github-readme-stats.vercel.app/api?username=Talha7447&show_icons=true)
+
+### Recently Worked On
+- [Project A](https://github.com/Talha7447/Project-A) - Brief description.
+- [Project B](https://github.com/Talha7447/Project-B) - Brief description.
+
 
 ### Tech Stack
 <p align="center">
@@ -35,5 +49,9 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="Web3.0" src="https://img.shields.io/badge/Web3.0-%2365d4fe.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-%231a1a1a.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
 </p>
+
 
