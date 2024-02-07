@@ -54,8 +54,6 @@
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img alt="Web3.0" src="https://img.shields.io/badge/Web3.0-%2365d4fe.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-%231a1a1a.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
 </p>
 
 
