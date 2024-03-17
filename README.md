@@ -6,6 +6,7 @@
 - 💬 Ask me about Back-end technologies.
 - 📫 How to reach me: [Twitter](https://twitter.com/TalhaCode), [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
 - ⚡ Fun fact: I love to help others.
+-  ![](https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views)
 
 ### Connect with Me
 <p align="center">
@@ -34,11 +35,6 @@
 
 ---
 
-### Coding Playlist
-🎧 Now Playing: [Your Favorite Coding Track](spotify:track:yourtrackid)
-
----
-
 ### Recently Worked On
 - [Project A](https://github.com/Talha7447/Project-A) - Brief description.
 - [Project B](https://github.com/Talha7447/Project-B) - Brief description.
@@ -51,14 +47,13 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  
-
-
-
 </p>
 
 
