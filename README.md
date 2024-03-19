@@ -1,4 +1,5 @@
-### Hi there, Welcome to my Profile 👋
+<!-- Your Name or Username -->
+# Hi there, I'm Talha Khan 👋
 
 - 🔭 I’m currently working on my Portfolio Project.
 - 🌱 I’m currently learning Laravel, MySQL, and OOP.
@@ -8,7 +9,7 @@
 - ⚡ Fun fact: I love to help others.
 -  ![](https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views)
 
-### Connect with Me
+## 📫 How to reach me
 <p align="center">
   <a href="https://twitter.com/TalhaCode">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
@@ -21,11 +22,8 @@
   </a>
 </p>
 
-### GitHub Trophies
-[![Talha's trophies](https://github-profile-trophy.vercel.app/?username=Talha-74&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
-
+## 📈 GitHub Profile Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie" alt="Top Languages" />
   <!-- Add some space between the images -->
@@ -35,13 +33,16 @@
 
 ---
 
-### Recently Worked On
-- [Project A](https://github.com/Talha7447/Project-A) - Brief description.
-- [Project B](https://github.com/Talha7447/Project-B) - Brief description.
+## 🌱 I'm currently learning
+
+<!-- Areas or technologies you are currently learning about -->
+- Larave/PHP
+- InertiaJs
+- Reactjs
 
 ---
 
-### Tech Stack
+## 🚀 Skills
 <p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
