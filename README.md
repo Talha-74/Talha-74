@@ -22,7 +22,6 @@
   </a>
 </p>
 
----
 ## 📈 GitHub Profile Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie" alt="Top Languages" />
@@ -31,16 +30,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
 ## 🌱 I'm currently learning
 
 <!-- Areas or technologies you are currently learning about -->
 - Larave/PHP
 - InertiaJs
 - Reactjs
-
----
 
 ## 🚀 Skills
 <p align="center">
