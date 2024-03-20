@@ -2,10 +2,9 @@
 # Hi there, I'm Talha Khan 👋
 
 - 🔭 I’m currently working on my Portfolio Project.
-- 🌱 I’m currently learning Laravel, MySQL, and OOP.
+- 🌱 I’m currently learning Laravel, MySQL, ReactJs and OOP.
 - 🤔 I’m looking for help with Web3.0 and Blockchain.
 - 💬 Ask me about Back-end technologies.
-- 📫 How to reach me: [Twitter](https://twitter.com/TalhaCode), [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
 - ⚡ Fun fact: I love to help others.
 -  ![](https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views)
 
