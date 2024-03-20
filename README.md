@@ -6,10 +6,13 @@
 - 🤔 I’m looking for help with Web3.0 and Blockchain.
 - 💬 Ask me about Back-end technologies.
 - ⚡ Fun fact: I love to help others.
--  ![](https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views)
+
+
+## Profile Views
+![](https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views)
 
 ## 📫 How to reach me
-<p align="center">
+<p align="center"
   <a href="https://twitter.com/TalhaCode">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
   </a>
@@ -21,18 +24,20 @@
   </a>
 </p>
 
-## 📈 GitHub Profile Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie" alt="Top Languages" />
-  <!-- Add some space between the images -->
+## 📈 Most Used Languages
+ <!-- Add some space between the images -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie" alt="Top Languages" />
+ 
+
+## 📈 GitHub Profile Stats
+
   <img src="https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 ## 🌱 I'm currently learning
-
 <!-- Areas or technologies you are currently learning about -->
-- Larave/PHP
+- Laravel/PHP
 - InertiaJs
 - Reactjs
 
