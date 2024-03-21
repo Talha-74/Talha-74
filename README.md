@@ -41,19 +41,15 @@
 - InertiaJs
 - Reactjs
 
-## 🚀 Skills
-<p align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
+ ## 🚀 Skills
+
+| Frontend      | Backend       | Tools & Others |
+| ------------- | ------------- | -------------- |
+| [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=firebase&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nginx&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bash&perline=3)](https://skillicons.dev) |
+
+
 
 
