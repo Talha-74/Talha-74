@@ -1,12 +1,10 @@
 <!-- Your Name or Username -->
 # Hi there, I'm Talha Khan 👋
-
 - 🔭 I’m currently working on my Portfolio Project.
 - 🌱 I’m currently learning Laravel, MySQL, ReactJs and OOP.
 - 🤔 I’m looking for help with Web3.0 and Blockchain.
 - 💬 Ask me about Back-end technologies.
 - ⚡ Fun fact: I love to help others.
-
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views)
@@ -24,16 +22,18 @@
   </a>
 </p>
 
-## 📈 Most Used Languages
- <!-- Add some space between the images -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&layout=pie" alt="Top Languages" />
- 
+## 🌐 Most Used Languages
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-74&show_icons=true&locale=en&layout=compact" alt="talha-74" />
+
+<br><br><br><br><br><br><br><br> <!-- This adds some space between the images -->
 
 ## 📈 GitHub Profile Stats
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical" alt="GitHub Stats" />
 
+## 🔥 GitHub Streak Stats
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha-74&" alt="talha-74's GitHub Streak" />
+</p>
 
 ## 🌱 I'm currently learning
 <!-- Areas or technologies you are currently learning about -->
