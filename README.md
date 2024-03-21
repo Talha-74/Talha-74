@@ -45,8 +45,8 @@
 
 | Frontend      | Backend       | Tools    |
 | ------------- | ------------- | -------------- |
-| [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev) |
-| [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=laravel&perline=3)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev) |
 | [![My Skills](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=firebase&perline=3)](https://skillicons.dev) |
 | [![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nginx&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bash&perline=3)](https://skillicons.dev) |
 
