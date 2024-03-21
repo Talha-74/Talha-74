@@ -1,13 +1,13 @@
 <!-- Your Name or Username -->
-<h1 align="center">Hi there, I'm Talha Khan 👋</h1>
-<p align="center">🔭 I’m currently working on my Portfolio Project.</p>
-<p align="center">🌱 I’m currently learning Laravel, MySQL, ReactJs and OOP.</p>
-<p align="center">🤔 I’m looking for help with Web3.0 and Blockchain.</p>
-<p align="center">💬 Ask me about Back-end technologies.</p>
-<p align="center">⚡ Fun fact: I love to help others.</p>
+<h1>Hi there, I'm Talha Khan 👋</h1>
+<p>🔭 I’m currently working on my Portfolio Project.</p>
+<p>🌱 I’m currently learning Laravel, MySQL, ReactJs and OOP.</p>
+<p>🤔 I’m looking for help with Web3.0 and Blockchain.</p>
+<p>💬 Ask me about Back-end technologies.</p>
+<p>⚡ Fun fact: I love to help others.</p>
 
 ## Profile Views
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views" alt="Profile Views"></p>
+<p><img src="https://komarev.com/ghpvc/?username=Talha-74&color=red&label=Profile+Views" alt="Profile Views"></p>
 
 ## 📫 How to reach me
 <p align="center">
@@ -35,7 +35,7 @@
 
 ## 🌱 I'm currently learning
 <!-- Areas or technologies you are currently learning about -->
-<p align="center">
+<p>
   - Laravel/PHP <br>
   - InertiaJs <br>
   - Reactjs
