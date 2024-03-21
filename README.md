@@ -31,7 +31,7 @@
  
 
 ## 📈 GitHub Profile Stats
-
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Talha-74&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 
