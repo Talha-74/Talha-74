@@ -1,13 +1,13 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/Talha-74/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20There!%20👋;I'm%20Software%20Engineer%20👨‍💻;2%2B%20years%20of%20coding%20experience%20🌱;Laravel%20with%20React%20and%20Inertia%20⚡;Always%20Learning%20New%20Things%20🌼;%20Building%20Cool%20Stuff%20💻&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20There!%20👋;I'm%20Software%20Engineer%20👨‍💻;2%2B%20years%20of%20coding%20experience%20🌱;%20 My_stack: %20Laravel-React-Inertia%20⚡;Always%20Learning%20New%20Things%20🌼;%20Building%20Cool%20Stuff%20💻&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 <!-- Your Name or Username -->
 
-# 💫 About Me:
+## 💫 About Me:
 <p>🔭 I’m currently working on my Portfolio Project.</p>
 <p>🌱 I’m currently learning Laravel, MySQL, ReactJs and OOP.</p>
 <p>🤔 I’m looking for help with Web3.0 and Blockchain.</p>
