@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<!-- Your Name or Username -->
-
 ## 💫 About Me:
 <p>🔭 I’m currently working on my Portfolio Project.</p>
 <p>🌱 I’m currently learning Laravel, MySQL, ReactJs and OOP.</p>
