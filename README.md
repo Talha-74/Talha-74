@@ -27,7 +27,7 @@
   </a>
 
 <!--Profile Count Badge-->
-## Profile Views
+<h2 align="left">Profile Views</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Talha-74&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Talha-74" style="padding-right:20px;" />
 </p>
