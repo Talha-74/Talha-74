@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Talha-74/github-stats-transparent/output/generated/overview.svg)
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/Talha-74/readme-typing-svg">
