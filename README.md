@@ -1,11 +1,10 @@
 ![](https://raw.githubusercontent.com/Talha-74/github-stats-transparent/output/generated/overview.svg)
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Talha-74/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20There!%20👋;I'm%20Software%20Engineer%20👨‍💻;2%2B%20years%20of%20coding%20experience%20🌱;%20 My_stack: %20PHP-Laravel-React-Inertia%20⚡;Always%20Learning%20New%20Things%20🌼;%20Building%20Cool%20Stuff%20💻&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3AA0FF&center=true&vCenter=true&width=800&lines=👋+Hello+there!;🙋‍♂️+I'm+Talha;💻+A+Passionate+PHP+Developer;🛠+Backend+Specialist+%7C+WordPress+Plugin+Developer;🚀+Turning+Ideas+into+Scalable+Solutions;📚+Lifelong+Learner+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+
+
+
+
 
 <!--Night Owl image-->
 <div>
