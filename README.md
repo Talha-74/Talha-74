@@ -5,7 +5,6 @@
 
 
 
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -60,6 +59,14 @@
   </tr>
 </table>
 <br />
+
+<!--WakaTime Coding Duration-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ to Technologies - Gʀᴀᴘʜ By WakaTime 📈</h2>
+<div align="center">
+  
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Talha_74&theme=tokyonight&layout=compact)](https://wakatime.com/@Talha_74)
+
+</div>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
