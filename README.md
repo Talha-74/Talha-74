@@ -120,16 +120,22 @@
 
 
 <br>
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ </h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
-  <div align="center">
- <img 
+  <img 
     src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark"
     alt="Quote of the Day"
   />
-  </div>
 </p>
+<p align="center">
+  <em style="color: #666; font-size: 13px;">
+    ⚠️ This quote is auto-generated and refreshed on each visit. All rights belong to the original authors.
+  </em>
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
