@@ -36,7 +36,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 
 <table width="100%">
   <tr>
@@ -61,7 +61,7 @@
 <br />
 
 <!--WakaTime Coding Duration-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ to Technologies - Gʀᴀᴘʜ By WakaTime 📈</h2>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ to Technologies - Gʀᴀᴘʜ By WakaTime </h2>
 <div align="center">
   
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Talha_74&theme=tokyonight&layout=compact)](https://wakatime.com/@Talha_74)
@@ -69,7 +69,7 @@
 </div>
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-74&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
@@ -119,12 +119,20 @@
 
 
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<!-- <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2> -->
-<!--STARTS_HERE_QUOTE_CARD-->
-<!-- <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It's%20beautiful%20to%20be%20alone.%20To%20be%20alone%20does%20not%20mean%20to%20be%20lonely.%20It%20means%20the%20mind%20is%20not%20influenced%20and%20contaminated%20by%20society.&theme=dark&bg_color=011627&author_color=ffeb95"> -->
-<!-- </p> -->
+<br>
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<p align="center">
+  <div align="center">
+ <img 
+    src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark"
+    alt="Quote of the Day"
+  />
+  </div>
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 <!--START_SECTION:waka-->
