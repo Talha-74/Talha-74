@@ -121,12 +121,11 @@
 
 <br>
 <!--STARTS_HERE_QUOTE_CARD-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
-  <a href="https://zenquotes.io/">
-   <img src="https://zenquotes.io/api/image" alt="Daily Quote" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </p>
 
 
