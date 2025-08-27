@@ -125,7 +125,7 @@
 
 <p align="center">
   <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Quote"/>
+   <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&v=1" />
   </a>
 </p>
 
