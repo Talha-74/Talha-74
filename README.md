@@ -124,10 +124,11 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
-  <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
-   <img src="https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&v=1" />
+  <a href="https://zenquotes.io/">
+   <img src="https://zenquotes.io/api/image" alt="Daily Quote" />
   </a>
 </p>
+
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
