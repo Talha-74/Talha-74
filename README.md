@@ -124,16 +124,11 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark"
-    alt="Quote of the Day"
-  />
+  <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Quote"/>
+  </a>
 </p>
-<p align="center">
-  <em style="color: #666; font-size: 13px;">
-    ⚠️ This quote is auto-generated and refreshed on each visit. All rights belong to the original authors.
-  </em>
-</p>
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 <!--ENDS_HERE_QUOTE_CARD-->
