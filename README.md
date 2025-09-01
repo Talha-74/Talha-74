@@ -32,9 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=Talha-74&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Talha-74" style="padding-right:20px;" />
 </p>
 
-<h2 align="center">🌐 Most Used Languages</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
-
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 
