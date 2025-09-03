@@ -45,14 +45,15 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Talha-74">
-          <img align="center" src="https://streak-stats.demolab.com?user=Talha-74&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
+   <td width="50%">
+  <h3 align="center"><strong>Streak Stats</strong></h3>
+  <p align="center">
+    <a href="https://github.com/Talha-74">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-74&theme=nightowl" alt="Streak Stats" />
+    </a>
+  </p>
+</td>
+
   </tr>
 </table>
 <br />
