@@ -37,7 +37,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Talha-74">
@@ -45,14 +45,14 @@
         </a>
       </p>
     </td>
-   <td width="50%">
+<!--    <td width="50%">
   <h3 align="center"><strong>Streak Stats</strong></h3>
   <p align="center">
     <a href="https://github.com/Talha-74">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-74&theme=nightowl" alt="Streak Stats" />
     </a>
   </p>
-</td>
+</td> -->
 
   </tr>
 </table>
@@ -67,20 +67,20 @@
 </div>
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-74&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
+<!-- <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2> -->
+<!-- <div align="center"> -->
+<!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-74&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15"> -->
+<!-- </div> -->
 
 ---
 
-<h2 align="center">🌱 I'm currently learning</h2>
+<!-- <h2 align="center">🌱 I'm currently learning</h2> -->
 <!-- Areas or technologies you are currently learning about -->
-<p align="center">
+<!-- <p align="center">
   - Laravel/PHP <br>
   - InertiaJs <br>
   - Reactjs
-</p>
+</p> -->
 
 
 <h2 align="center">🚀 Skills</h2>
